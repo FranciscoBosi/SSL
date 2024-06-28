@@ -1,7 +1,0 @@
-int esNumero(const char *nro) {
-    if (isdigit(nro)==-1)
-    {printf("No era un digito de numeros");
-    return 0;
-    } else return 1;    
-}
-
